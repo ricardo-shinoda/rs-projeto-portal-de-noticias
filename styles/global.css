@@ -16,7 +16,7 @@
   --h1: 800 24px/135% var(--font-family);
   --h2: 800 16px/140% var(--font-family);
   --h3: 800 14px/140% var(--font-family);
-  --text-spam: 600 14px/145% var(--font-family);
+  --text-span: 600 14px/145% var(--font-family);
   --text: 400 16px/140% var(--font-family);
   --text-sm: 400 13px/160% var(--font-family);
 }
@@ -52,6 +52,7 @@ img {
 
 main {
   margin-top: 40px;
+  gap: 80px;
 }
 
 .content-tag {
